@@ -1,2 +1,2 @@
 # Matrix-Calculator
-Simple Matrix Calculator
+Simple Matrix Calculator by Shadow Academy
